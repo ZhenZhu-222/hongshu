@@ -6,7 +6,7 @@ st.header("爆款小红书设计文案 ")
 
 with st.expander("请输入秘钥"):
     api = st.text_input("请输入你的api密钥",type= "password",key=1)
-    st.markdown("[输入秘钥](https://zhenzhu-222.github.io/zijin-www/)")
+    st.markdown("[ai助手](https://zhenzhu-222.github.io/zijin-www/)")
 
 subject = st.text_input("视频主题",key=2)
 
